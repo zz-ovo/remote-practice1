@@ -1,2 +1,2 @@
-#git branch merge practice
-*remote practice1
+git branch merge practice
+remote practice1
